@@ -1,2 +1,6 @@
-# Graph-Isomorphism
-Matlab implementation of graph isomorphism problem. The solution is limited to graphs with 3 or 4 vertexes, since this is NP problem. Assignment from junior year of college.
+# Graph Isomorphism
+Matlab implementation of graph isomorphism problem.<br> The solution is limited to graphs with 3 or 4 vertexes, since this is NP problem.<br> Assignment from junior year of college. <br><br>
+For more details about isomophic graphs see the links below:<br>
+https://en.wikipedia.org/wiki/Graph_isomorphism <br>
+http://mathworld.wolfram.com/IsomorphicGraphs.html <br>
+https://en.wikipedia.org/wiki/Graph_isomorphism_problem
